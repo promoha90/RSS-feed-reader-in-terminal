@@ -20,14 +20,14 @@ A simple RSS feed reader written in Python. This script lets you input multiple 
 1. Clone the repository or download the script:
 
 ```bash
-git clone https://github.com/your-username/rss-news-reader.git
-cd rss-news-reader
+git clone https://github.com/promoha90/rss-feed-reader-in-terminal.git
+cd rss-feed-reader-in-terminal
 ```
 
 2. Enter one or more RSS feed URLs when prompted.
 
 ```bash
-python rss_reader.py
+python main.py
 ```
 
 3. Press Enter without typing anything to finish entering URLs.
